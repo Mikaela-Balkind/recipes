@@ -1,3 +1,4 @@
+
 Milanesa
 ==============
 
@@ -6,6 +7,6 @@ Milanesa
 - Chicken breast
 - 2 eggs
 - Fresh parsley
-- Garlic
+- 3x Garlic cloves
 - S+P to taste
 - Bread crumbs
